@@ -1,6 +1,8 @@
 # Windows time tracker
 tracking active windows
 
+<img src="https://github.com/anzxfukuoka/windows_time_tracker/blob/main/preview/img.png?raw=true" alt="preview image" width="666" height="533">
+
 ### Instalation
 
 ```
