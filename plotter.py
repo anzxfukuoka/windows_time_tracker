@@ -40,7 +40,7 @@ def make_autopct(values):
 
 rel_data.plot.pie(
     #labels=data["app_name"],
-    colors=["c", "m", "b", "g"],
+    #colors=["c", "m", "b", "g"],
     autopct=make_autopct(rel_data["spend_time"]), #"%.2f",
     fontsize=12,
     figsize=(6, 6),
